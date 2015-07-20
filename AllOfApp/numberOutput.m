@@ -55,7 +55,7 @@
                 prev = 0;
             }
             
-            switch(div) {     
+            switch(div) {
                 case 1000:
                     strcat(str, digit[(num / div) % 10]);
                     strcat(str, " thousand");
