@@ -1,0 +1,29 @@
+//
+//  Array2.m
+//  ObjectExamples
+//
+//  Created by VuongPC1 on 7/15/15.
+//  Copyright (c) 2015 VuongPC1. All rights reserved.
+//
+
+#import "Array2.h"
+#import "Array2+RemoveDuplicate.h"
+
+@interface Array2 ()
+@end
+
+@implementation Array2
+
+- (void)viewDidLoad {
+    [super viewDidLoad];
+    NSArray *array = @[@"A",@2,@"A",@"B",@2];
+     NSLog(@"%@", array);
+    array = [self removeDuplicate:array];
+    
+    NSLog(@"%@", array);
+    
+    
+   }
+
+
+@end

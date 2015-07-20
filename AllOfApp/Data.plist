@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>name</key>
+		<string>Edison</string>
+		<key>job</key>
+		<string>Inventor</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Monroe</string>
+		<key>job</key>
+		<string>Actress</string>
+	</dict>
+	<dict>
+		<key>name</key>
+		<string>Lenon</string>
+		<key>job</key>
+		<string>Singer</string>
+	</dict>
+</array>
+</plist>
