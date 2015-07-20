@@ -22,8 +22,8 @@
                           ]};
     NSDictionary* intermediate = @{SECTION: @"Training", MENU: @[
                                     @{TITLE:@"QueryArrayFootball",CLASS:@"QueryArrayFootball"},
-                                    @{TITLE: @"Number Output", CLASS: @"numberOutput"},
-                                    @{TITLE:@"QueryArrayCategory",CLASS:@"ArrayCategory"}
+                                    @{TITLE:@"QueryArrayCategory",CLASS:@"ArrayCategory"},
+                                    @{TITLE: @"Number Output", CLASS: @"numberOutput"}
                                   ]};
     NSDictionary* advanced = @{SECTION: @"Advanced", MENU: @[
                                     @{TITLE: @"Advanced C", CLASS: @"AdvancedC"}
